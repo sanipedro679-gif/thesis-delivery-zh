@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文论文与毕业设计交付"
+  short_description: "按学校要求组织写作、核对引文和文档，并持续记录问题与验证改进"
+  default_prompt: "使用 $thesis-delivery-zh，先读取项目要求和材料，完成本次写作或审核并记录已验证的改进。"

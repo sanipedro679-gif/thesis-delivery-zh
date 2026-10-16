@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "source-stable-id",
+      "number": null,
+      "title": "填写真实题名",
+      "entry": "填写原始条目，不编造书目信息",
+      "origin": "user",
+      "allowed_use": "cite",
+      "required": false,
+      "exclusion_reason": "",
+      "evidence": {
+        "metadata": "pending",
+        "metadata_locator": "",
+        "access": "record",
+        "read": "none",
+        "claim_support": "pending",
+        "claims": []
+      }
+    }
+  ]
+}

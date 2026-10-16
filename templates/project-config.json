@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "project": {"title": "", "document_type": "", "stage": "", "discipline": ""},
+  "requirements": [],
+  "conflicts": [],
+  "selectors": {"body": {}, "bibliography": {}},
+  "citations": {"style": "sequential"},
+  "ledger": {"path": "source-ledger.json"},
+  "text_rules": [],
+  "numbered_lists": [],
+  "formatting": [],
+  "page": {}
+}

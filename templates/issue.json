@@ -1,0 +1,10 @@
+{
+  "trigger": "具体文稿类型与触发条件",
+  "failure": "观察到的最小脱敏错误",
+  "root_cause": "已查明原因或说明待分析",
+  "scope": "general",
+  "remedy": "具体改进措施",
+  "exceptions": "不适用的情况",
+  "check": "可观察的验证标准",
+  "regression_test": "tests/test_audits.py"
+}
